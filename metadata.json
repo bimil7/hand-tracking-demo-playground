@@ -1,0 +1,10 @@
+{
+  "name": "Hand tracking motion",
+  "description": "A spatial image showreel experience controlled by hand tracking and webcam gestures.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
